@@ -1,0 +1,15 @@
+C:\Users\Nancy\Desktop\my c projects\numreverse\obj\Debug\net8.0\numreverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nancy\Desktop\my c projects\numreverse\obj\Debug\net8.0\numreverse.AssemblyInfoInputs.cache
+C:\Users\Nancy\Desktop\my c projects\numreverse\obj\Debug\net8.0\numreverse.AssemblyInfo.cs
+C:\Users\Nancy\Desktop\my c projects\numreverse\obj\Debug\net8.0\numreverse.csproj.CoreCompileInputs.cache
+C:\Users\Nancy\Desktop\my c projects\numreverse\obj\Debug\net8.0\numreverse.sourcelink.json
+C:\Users\Nancy\Desktop\my c projects\numreverse\bin\Debug\net8.0\numreverse.exe
+C:\Users\Nancy\Desktop\my c projects\numreverse\bin\Debug\net8.0\numreverse.deps.json
+C:\Users\Nancy\Desktop\my c projects\numreverse\bin\Debug\net8.0\numreverse.runtimeconfig.json
+C:\Users\Nancy\Desktop\my c projects\numreverse\bin\Debug\net8.0\numreverse.dll
+C:\Users\Nancy\Desktop\my c projects\numreverse\bin\Debug\net8.0\numreverse.pdb
+C:\Users\Nancy\Desktop\my c projects\numreverse\obj\Debug\net8.0\numreverse.dll
+C:\Users\Nancy\Desktop\my c projects\numreverse\obj\Debug\net8.0\refint\numreverse.dll
+C:\Users\Nancy\Desktop\my c projects\numreverse\obj\Debug\net8.0\numreverse.pdb
+C:\Users\Nancy\Desktop\my c projects\numreverse\obj\Debug\net8.0\numreverse.genruntimeconfig.cache
+C:\Users\Nancy\Desktop\my c projects\numreverse\obj\Debug\net8.0\ref\numreverse.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numreverse", "numreverse.csproj", "{8252B5D6-DC70-4749-99A4-BEE42905B95D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numrevTest", "..\numrevTest\numrevTest.csproj", "{2E14A232-3439-4E7E-B71B-161DA609800D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8252B5D6-DC70-4749-99A4-BEE42905B95D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8252B5D6-DC70-4749-99A4-BEE42905B95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8252B5D6-DC70-4749-99A4-BEE42905B95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8252B5D6-DC70-4749-99A4-BEE42905B95D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E14A232-3439-4E7E-B71B-161DA609800D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E14A232-3439-4E7E-B71B-161DA609800D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E14A232-3439-4E7E-B71B-161DA609800D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E14A232-3439-4E7E-B71B-161DA609800D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37FE4A94-3710-4415-B2B5-26BF1ED4DFE1}
+	EndGlobalSection
+EndGlobal

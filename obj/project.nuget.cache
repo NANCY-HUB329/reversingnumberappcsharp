@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OD3w/741peSFHtwkTRLjfuzjOIpOy6EQQ5cgvLALY1ytkr2qyEw/vH2H0h69mIE3SiGdiYXUKHt8bTvZpB1t9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nancy\\Desktop\\my c projects\\numreverse\\numreverse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nancy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Nancy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Nancy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Nancy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
